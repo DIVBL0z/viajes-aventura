@@ -18,3 +18,5 @@ Requisito: Python 3.7 o superior (usa date.fromisoformat) y ninguna librería ex
 
 
 Los integrantes con sus roles: José (Product Owner), Denisse (Scrum Master y Líder de Proyecto) y Daniel (desarrollo).
+
+LINK DEL VIDEO: https://youtu.be/2AfCdHKQmIE
