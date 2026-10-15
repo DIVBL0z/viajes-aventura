@@ -12,3 +12,9 @@ Arquitectura: modelos.py (negocio), datos.py (SQL), interfaz.py (menús y valida
 Ejecución: python main.py. La primera vez pide crear la cuenta del administrador.
 
 Proyecto de la Evaluación Sumativa 3 de Programación Orientada a Objeto Seguro (INACAP).
+
+
+Requisito: Python 3.7 o superior (usa date.fromisoformat) y ninguna librería externa, porque todo es de la biblioteca estándar.
+
+
+Los integrantes con sus roles: José (Product Owner), Denisse (Scrum Master y Líder de Proyecto) y Daniel (desarrollo).
